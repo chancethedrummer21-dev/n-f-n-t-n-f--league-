@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>No Faking • No Talking • No Favors</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>NO FAKING • NO TALKING • NO FAVORS</h1>
+  <p class="tagline">Let the Game Speak.</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Teams</a>
+  <a href="#">Standings</a>
+  <a href="#">Schedule</a>
+  <a href="#">Rules</a>
+  <a href="#">Join</a>
+</nav>
+
+<section class="hero">
+  <h2>Competitive 5v5 Pro-Am League</h2>
+  <p>
+    Crossplay • Xbox & PS5<br>
+    Prize Pool • No Favoritism • Pure Competition
+  </p>
+</section>
+
+<section class="content">
+  <h3>About the League</h3>
+  <p>
+    This league is built for serious Pro-Am teams only.
+    No politics. No favoritism. No shortcuts.
+    Every bucket, stop, and win is earned.
+  </p>
+
+  <h3>League Principles</h3>
+  <ul>
+    <li>No faking records or stats</li>
+    <li>No excessive trash talk or drama</li>
+    <li>No favors from admins or refs</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 No Faking • No Talking • No Favors Pro-Am League</p>
+</footer>
+
+</body>
+</html>
